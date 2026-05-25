@@ -54,9 +54,9 @@ tmdb-app --type "playing"
 
 ## 🔗 Links Úteis
 
-* 💻 [Repositório do Projeto](https://github.com/GoesEduardo/tmdb-app)
-* 📖 [Documentação da API do TMDB](https://developer.themoviedb.org/docs)
-* 🐛 [Reportar Problemas / Bugs](https://github.com/GoesEduardo/tmdb-app/issues)
+* 💻 [Repositório do Projeto](<https://github.com/GoesEduardo/tmdb-app>)
+* 📖 [Documentação da API do TMDB](<https://developer.themoviedb.org/docs>)
+* 🐛 [Reportar Problemas / Bugs](<https://github.com/GoesEduardo/tmdb-app/issues>)
 
 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
